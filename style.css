@@ -1,0 +1,49 @@
+.container{
+	width: 400px;
+	height: 200px;
+	background-color: #ccc;
+
+}
+
+div {
+	width: 25%;
+	height: 25%;
+	float: left;
+}
+
+.mauve{
+	background-color:#dd42f5 ;
+	width: 50%;
+
+}
+.blue{
+	background-color: blue;
+
+}
+.grey{
+	background-color: #ddd;
+
+}
+.orange{
+	background-color: orange;
+	width: 50%;
+	height: 50%
+}
+.pink{
+	background-color: pink;
+
+}
+.lightgreen{
+	background-color: lightgreen;
+
+}
+.yellow{
+	background-color: yellow;
+	width: 50%;
+
+}
+.green{
+	background-color: green;
+	width: 100%
+	
+}
